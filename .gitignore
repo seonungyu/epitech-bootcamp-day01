@@ -4,3 +4,4 @@ build/
 dist/
 *.spec
 highscore.txt
+dayBonus/toto.txt
